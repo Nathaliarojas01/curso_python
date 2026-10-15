@@ -1,0 +1,5 @@
+nombre = str (input("¿cual es tu nombre?"))
+edad = int(input("¿cual es tu edad"))
+nota1 = float (input("ingrese su nota"))
+nota2 = float(input("ingrese su nota"))
+nota3 = float (input("ingrse su nota"))
